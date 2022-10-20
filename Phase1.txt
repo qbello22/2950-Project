@@ -1,1 +1,26 @@
+GitHub repository link: https://github.com/qbello22/2950-Project
+
+Nobel Prize Winners in Chemistry
+The data pertaining to Nobel Prize Winners in Chemistry is accessible through mainly one site. We would have to make a dataset ourselves using information from the datasets provided by the Nobel Prize. The Nobel Prize has datasets divided by categories such as categories of the Nobel Prize, the laureates’ universities, and gender (https://data.nobelprize.org/specification/). There is a dataset called “Chemistry” with their names, the year they won, and why they were given the Nobel Prize. If we want to find if a relationship exists between going to a higher-ranked university and winning a Nobel Prize, we would need to look at where they earned their undergraduate degrees and the ranking of their institutions. We would have to look up their universities in the dataset under the category of “University”. For the ranking, we can look at the U.S. News “2022 Best Global Universities Rankings” and filter out schools. If we also want to know if there is a gender balance or imbalance among winners, we can look at the Nobel Prize’s “Female” and “Male” datasets under the Gender category. 
+
+Electoral Redistricting 2022 
+To explore the redistricting process and its potential electoral impacts, we would want to access data about the old Congressional districts (constructed after the 2010 census). The Census Bureau makes plenty of official district data from this and previous years available online: https://www.census.gov/programs-surveys/decennial-census/about/rdo/congressional-districts.110th_Congress.html. A valuable resource for data about election results might be the Harvard Voting and Election Science Team (VEST): they have collected multiple datasets of election results from past years, as well as some shapefiles containing geographical data of different districts (https://dataverse.harvard.edu/dataverse/electionscience). Between these two datasets, we should be able to examine the relationship between changing population demographics and election results before the redistricting occurred, and from there look to the potential impacts of the new district delineations. 
+
+Covid-19’s Impact on Airline Industry (2020-2022)
+This topic requires the synthesis of both the airline industry (finance, regions, timelines, etc.) and the covid data (cases, regions, timelines, etc.). 
+Data related to airlines can be found on Yahoo Finance. 
+For example, https://finance.yahoo.com/quote/AAL?p=AAL&.tsrc=fin-srch. 
+This link contains data from American Airlines and their stock prices over time. 
+Data related to Covid-19 can be found at Johns Hopkins Coronavirus Resource Center
+https://coronavirus.jhu.edu/map.html 
+The global covid cases and deaths count are available. 
+We can investigate the impact of Covid-19 on the airline industry. We can analyze airline companies’ stock prices or overall financial performance over the past two years. We need to identify other variables that would be potential confounding factors. 
+
+Covid lockdown dates comparison 2020
+This study will investigate the effectiveness of COVID lockdown on curbing COVID positive cases in 2020. We will integrate data of the lockdown days of the countries with at least 1,000,000 confirmed cases and the data of positive cases in these countries. This study will ideally show how strict or lenient governments were in response to COVID-19 and discuss whether lockdown is an effective way to prevent COVID. An example would be https://www.canada.ca/en/news/COVID-19-announcements.html: this website shows Canada’s lockdown timeline, which can be compared to https://health-infobase.canada.ca/covid-19/, a government website shows the positive cases in Canada. 
+
+Questions for TAs:
+Do you think data provided by news websites (e.g., CNN or NBC) can be used in our data set?
+How much data would be considered enough to draw conclusions? For example, in the COVID lockdown dates comparison idea, would the data of 30 countries be enough? 70? 100+?
+It is mentioned in the “Deliverables” section in the handbook that complexity of the dataset would be evaluated. Does our ideas on datasets seem complex enough? Is there a dataset that stands out as having moderate size and complexity?
 
