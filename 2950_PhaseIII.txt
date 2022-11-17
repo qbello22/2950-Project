@@ -1,0 +1,13 @@
+qeb3 
+lz324
+yh458
+rc673
+
+Hypothesis 1:
+Age has no bearing on the likelihood of winning a Nobel Prize. (age = 0)
+
+Hypothesis 2:
+Nobel Laureates are more likely to come from English-speaking countries. (English-speaking > 0)
+
+Questions:
+Are we able to make claims about the probability of winning a Nobel Prize based on certain characteristics, without looking at data on the nominees during the same period for comparison?
